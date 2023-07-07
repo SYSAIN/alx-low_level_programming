@@ -1,7 +1,7 @@
 # 0x08. C - Recursion
 ---
 <p align="center">
-<img src="alx.png" alt="center" style="width:200px; height:105px"/>
+<img src="C:/Users/dell/Desktop/git/alx.png" alt="center" style="width:200px; height:105px"/>
 </p>
 
 
