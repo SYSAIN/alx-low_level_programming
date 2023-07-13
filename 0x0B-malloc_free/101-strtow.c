@@ -5,7 +5,7 @@
 
 int count_words(char *str);
 int alloc_strings(char *str, char **words);
-char **fill_words(char *str, char** words);
+char **fill_words(char *str, char **words);
 
 /**
  * strtow - Splits a string into words
@@ -88,7 +88,7 @@ int alloc_strings(char *str, char **words)
  *
  * Return: The words array
  */
-char **fill_words(char *str, char** words)
+char **fill_words(char *str, char **words)
 {
 	int i, j = 0, k = 0;
 
