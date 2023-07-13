@@ -105,5 +105,5 @@ char **fill_words(char *str, char **words)
 		}
 	}
 	words[j] = NULL;
-	return (s);
+	return (words
 }
