@@ -6,4 +6,4 @@
 </p>
 
 
-<h3 align="center">0-malloc_checked.c</h3>
+<h3 align="center">0-malloc_check
