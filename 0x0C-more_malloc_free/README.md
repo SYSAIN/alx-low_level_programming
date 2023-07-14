@@ -22,7 +22,10 @@
 
 `a function that creates an array of integers`
 
-<h3 align="center"></h3>
+<h3 align="center">100-realloc.c</h3>
 
-<h3 align="center"></h3>
+`a function that reallocates a memory block using malloc and free`
 
+<h3 align="center">101-mul.c</h3>
+
+`a program that multiplies two positive numbers`
