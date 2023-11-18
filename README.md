@@ -1,5 +1,7 @@
 # ALX low level programming tasks in C
-
+<p align="center">
+<img src="https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png" alt="center" style="width:200px; height:105px"/>
+</p>
 Table of contents
 * [Introduction to programming in C - Hello World!](./0x00-hello_world/)
 * [Variables and Branching Control   Structures](./0x01-variables_if_else_while/)
