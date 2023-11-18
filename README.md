@@ -1,4 +1,4 @@
-i## ALX low level programming tasks in C
+# ALX low level programming tasks in C
 
 Table of contents
 * [Introduction to programming in C - Hello World!](./0x00-hello_world/)
